@@ -2,6 +2,8 @@
 
 I did this repo to try some of the native scriot module APIs, the main one is the `import * from x` syntax, there's no fallbacks set up yet.
 
+Live demo host at github pages -> https://felquis.github.io/web-native-es-module/index.html
+
 ## Install and run
 
 1. Clone the repo
