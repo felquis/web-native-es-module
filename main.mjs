@@ -1,5 +1,5 @@
 import './App.js'
-import colorName from './es-third-party/es-color-name/index.js'
+import colorName from './es-color-name.js'
 
 document.body.style.backgroundColor = `rgb(${colorName.aliceblue.join(',')})`
 
